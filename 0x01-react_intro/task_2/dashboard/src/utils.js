@@ -10,3 +10,8 @@ export function getFooterCopy(isIndex) {
     }
     return 'Holberton School main dashboard';
 }
+
+// Create a function named getLatestNotification that will return the following string
+export function getLatestNotification() {
+    return '<strong>Urgent requirement</strong> - complete by EOD';
+}
