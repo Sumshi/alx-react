@@ -38,3 +38,9 @@
   text-align: center;
 
 }
+
+form {
+  display: flex;
+  gap: 4rem;
+  padding-top: 20px;
+}
